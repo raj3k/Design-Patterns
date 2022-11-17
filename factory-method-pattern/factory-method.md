@@ -1,0 +1,1 @@
+The factory method allows you to centralize the logic of creating objects (meaning, which object to create and why) in a single place. This allows you to forget about that part and focus on simply requesting the object you need and then using it.
